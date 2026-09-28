@@ -1,0 +1,13 @@
+CLI
+navigate computer with terminal
+    cd
+    mkdir
+    echo
+    lives
+    pwd
+    rmdir
+    rm -rm
+    cp 
+    cv
+    mv
+    lolcat 

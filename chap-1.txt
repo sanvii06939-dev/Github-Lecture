@@ -6,4 +6,6 @@ types of computers
     embedded
     super computers
     quantum computers
-    
+
+
+Juicer is not a computer 
