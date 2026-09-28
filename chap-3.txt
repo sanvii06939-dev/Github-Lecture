@@ -11,3 +11,5 @@ navigate computer with terminal
     cv
     mv
     lolcat 
+
+some random change in chap-3

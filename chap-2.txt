@@ -8,4 +8,6 @@ Hardware
     GPU 
     ram
     motherboard
+
+    some random change in chap-2
     
